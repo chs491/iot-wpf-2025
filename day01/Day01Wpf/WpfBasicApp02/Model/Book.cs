@@ -11,7 +11,7 @@ namespace WpfBasicApp02.Model
     {
         public int Idx { get; set; }
         public string Division { get; set; }
-        public string DName { get; set; }
+        public string DNames { get; set; }
         public string Names { get; set; }
         public string Author {  get; set; }
         public string ISBN { get; set; }
