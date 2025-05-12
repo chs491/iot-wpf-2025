@@ -251,13 +251,10 @@ IoT 개발자 WPF 학습 리포지토리 2025
 
     
 
-https://github.com/user-attachments/assets/810b4586-b2ff-4801-ad82-0ec3370c1ad4
-
-
-
 ## 4일차
 
 ### DB연결 CRUD 연습(계속)
+1. 
 
 #### DB연결 CRUD 연습 시 추가 필요사항
 - [ ] NLog로 각 기능 동작 시 로그 남기기. 공통화작업
