@@ -274,6 +274,8 @@ IoT 개발자 WPF 학습 리포지토리 2025
 
     <img src="./image/wpf0012.png" width="650">
 
+    <img src="./image/wpf0013.png" width="650">
+
 #### DB연결 CRUD 연습시 추가 필요사항
 - [x] 여러번 나오는 로직 메서드화
 - [x] NLog로 각 기능 동작시 로그남기기. 공통화작업
@@ -288,6 +290,25 @@ IoT 개발자 WPF 학습 리포지토리 2025
 
 ## 5일차
 
-### 영화즐겨찾기앱
-- OpenAPI + Youtube API 
-- ...
+### MovieFinder 2025
+- 전체 UI : 다섯 영역으로 구분
+
+    <img src="./image/wpf0014.png" width="650">
+
+- 영화 즐겨찾기앱
+    - TMDB 사이트에서 제공하는 OpenAPI로 데이터 가져오기
+    - 내가 좋아하는 영화리스트 선택, 즐겨찾기 저장
+    - 저장한 영화만 리스트업, 삭제 가능
+    - 선택된 영화목록 더블클릭 > 영화 상세정보 팝업
+    - 선택된 영화 선택 > 예고편보기 > 유튜브동영상 팝업
+
+- API / OpenAPI
+    - Application Programming Interface
+    - 개발자가 직접개발하지 않고 제 3자가 만들어서 제공하는 서비스    
+
+- TMDB, Youtube
+    - [TMDB](https://www.themoviedb.org/) API 신청
+    - [Youtube](https://console.cloud.google.com/) Data API 신청    
+        - 프로젝트 생성 후 API 및 서비스 > 라이브러리
+        - Youtube Data API v3 선택
+        - 사용 버튼 클릭
