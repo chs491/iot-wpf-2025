@@ -385,6 +385,13 @@ IoT 개발자 WPF 학습 리포지토리 2025
 ## 8일차
 
 ### 부산광역시 부산맛집 정보앱(계속)
-1. 메인창내용을 구글맵창으로 이동
-2. CefSharp.Wpf로 구글맵지도 표현
-3. 위도(Latitude), 경도(Longitude) 표현
+1. 그리드 표현 아이템 조정
+2. 메인창내용을 구글맵창으로 이동
+3. CefSharp.Wpf로 구글맵지도 표현
+4. 위도(Latitude), 경도(Longitude) 표현
+
+
+
+https://github.com/user-attachments/assets/2d79af0b-db51-4b39-984d-3e2ffa32a92c
+
+
