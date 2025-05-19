@@ -385,13 +385,34 @@ IoT 개발자 WPF 학습 리포지토리 2025
 ## 8일차
 
 ### 부산광역시 부산맛집 정보앱(계속)
-1. 그리드 표현 아이템 조정
-2. 메인창내용을 구글맵창으로 이동
-3. CefSharp.Wpf로 구글맵지도 표현
-4. 위도(Latitude), 경도(Longitude) 표현
+1. 메인창내용을 구글맵창으로 이동
+2. CefSharp.Wpf로 구글맵지도 표현
+3. 위도(Latitude), 경도(Longitude) 표현
 
+### 스마트홈 연동 모니터링앱
 
+<img src="./image/wpf0022.jpg" width="650">
 
-https://github.com/user-attachments/assets/2d79af0b-db51-4b39-984d-3e2ffa32a92c
+- 전면부
 
+<img src="./image/wpf0023.jpg" width="650">
 
+- 후면부
+
+- [개발링크](https://github.com/hugoMGSung/hungout-with-arduino/tree/main/SmartHomeDIY)
+
+1. Arduino + Raspberry Pi 스마트홈 기제작
+
+#### Mqtt 데이터전송 기술
+
+<img src="./image/wpf0026.jpg" width="600">
+
+### 스마트홈 프로젝트 시작
+1. 화면 UI 변경
+2. NuGet 패키지
+    - CommunityToolKit.Mvvm 설치
+3. Models, Views, ViewModels 폴더 생성
+4. MainWindow 바인딩 처리
+5. MainViewModel에서 바인딩 속성 초기화    
+
+    <img src="./image/wpf0025.jpg" width="650">
